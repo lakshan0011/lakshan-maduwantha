@@ -1,0 +1,5 @@
+{
+  "name": "Professional Invoice Generator",
+  "description": "A high-fidelity invoice application modeled after the Lakshan Maduwantha template, featuring live preview, automatic calculations, and print-ready functionality.",
+  "requestFramePermissions": []
+}
